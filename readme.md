@@ -18,6 +18,7 @@
 
 1. 克隆仓库到本地：
     ```bash
+    git clone https://github.com/buyaojinchang/transformer_test.git
     cd transformer_test
     ```
 
