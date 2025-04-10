@@ -1,6 +1,8 @@
 # Transformer Test
 
 这是一个用于演示 Transformer 架构的仓库。
+原视频链接：
+- [[研1基本功 （真的很简单）召唤Transformer]手写“变压器”or“变形金刚](https://www.bilibili.com/video/BV1oK421Y7Vh/?share_source=copy_web&vd_source=7172a56bb772cad3d1d1dc0cf6b5beff)
 
 ## 环境要求
 
